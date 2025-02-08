@@ -1,4 +1,4 @@
-#About me
+# About me
 
 I'm a Computer Science student currently in college!  
 and I'm currently learning Python and web-development.  
